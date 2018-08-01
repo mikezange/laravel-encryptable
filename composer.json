@@ -9,7 +9,7 @@
     },
     "autoload": {
         "psr-4": {
-            "MikeZange\\Encryptable": "src/"
+            "MikeZange\\Encryptable\\": "src/"
         }
     },
     "license": "MIT",
