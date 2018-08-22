@@ -5,7 +5,7 @@
     "type": "library",
     "require": {
         "php": ">=7.0",
-        "laravel/framework": "~5.6"
+        "illuminate/encryption": "~5.6"
     },
     "autoload": {
         "psr-4": {
